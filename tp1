@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <div style="display: flex; justify-content: center;"><img src="c:\Users\ossam\Desktop\ISM LCOLIYA.jpeg" width="300" height="100">
+ </div>
+    <img src="c:\Users\ossam\Desktop\SINYATUR.jpeg" width="150" height="70"><title>Emploi Du Temps - IAIL- S2</title>
+</head>
+<body>
+    <h2 align="center">Emploi Du Temps « Provisoire » — IAIL- S2</h2>
+
+    <table border="1" width="100%" cellpadding="10" cellspacing="0">
+        <thead>
+            <tr bgcolor="#f2f2f2">
+                <th></th>
+                <th>9h A 10h30</th>
+                <th>10h30 A 12h</th>
+                <th>12h15 A 13h45</th>
+                <th>13h45 A 15h15</th>
+                <th>15h30 A 17h</th>
+                <th>17h A 18h30</th>
+            </tr>
+        </thead>
+        <tbody align="center">
+            <tr>
+                <td bgcolor="#f2f2f2"><b>Lundi</b></td>
+                <td>Programmation Python 2<br><i>Prof M.Laraqui</i><br><b>Cours - Amphi A</b></td>
+                <td>Algorithmes Et Programmation C 2<br><i>Prof H.Oudani</i><br><b>Cours - Amphi A</b></td>
+                <td></td>
+                <td>Algorithmes Et Programmation C 2<br><font color="red"><b>Td/Tp Grp1 - Salle P2</b></font><br><i>Prof H.Oudani</i></td>
+                <td>Programmation Python 2<br><font color="red"><b>Td/Tp Grp 3- Salle P2</b></font><br><i>Prof A.Elouardi</i></td>
+                <td>Programmation Python 2<br><font color="red"><b>Td/Tp Grp 2- Salle P2</b></font><br><i>Prof A.Elouardi</i></td>
+            </tr>
+            <tr>
+                <td bgcolor="#f2f2f2"><b>Mardi</b></td>
+                <td>Programmation Python2<br><font color="red"><b>Td/Tp Grp 1- Salle P2</b></font><br><i>Prof A.Elouardi</i></td>
+                <td></td>
+                <td>Digital Skills & Intelligence Artificielle<br><b>Cours — Amphi A</b><br><i>Prof A. Elouardi</i></td>
+                <td>Digital Skills & Intelligence Artificielle<br><font color="red"><b>Td/Tp - Amphi A</b></font><br><i>Prof A. Elouardi</i></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td bgcolor="#f2f2f2"><b>Mercredi</b></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>Algorithmes Et Programmation C 2<br><font color="red"><b>Td/Tp Grp2 - Salle P2</b></font><br><i>Prof H.Oudani</i></td>
+                <td>Algèbre 2<br><b>TD - Amphi A</b><br><i>Prof I. Boutaayamo</i></td>
+                <td>Analyse 2<br><b>Td - Amphi A</b><br><i>Prof A.Hadri</i></td>
+            </tr>
+            <tr>
+                <td bgcolor="#f2f2f2"><b>Jeudi</b></td>
+                <td>Traitement Du Signal<br><b>Cours — Amphi A</b><br><i>Prof H.Azzahhafi</i></td>
+                <td>Traitement Du Signal<br><b>TD - Amphi A</b><br><i>Prof H.Azzahhafi</i></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td bgcolor="#f2f2f2"><b>Vendredi</b></td>
+                <td>Algèbre 2<br><b>Cours — Amphi C</b><br><i>Prof I. Boutaayamo</i></td>
+                <td>Analyse 2<br><b>Cours — Amphi C</b><br><i>Prof A.Hadri</i></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td bgcolor="#f2f2f2"><b>Samedi</b></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>Programmation Web 1<br><font color="red"><b>Td/Tp G2- Salle P2</b></font><br><i>Prof A.Hakem</i></td>
+                <td>Programmation Web 1<br><b>Cours - Salle P1</b><br><i>Prof K.Omari</i></td>
+                <td>Programmation Web 1<br><font color="red"><b>Td/Tp G1- Salle P2</b></font><br><i>Prof K.Omari</i></td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>
